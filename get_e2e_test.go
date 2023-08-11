@@ -12,9 +12,9 @@ import (
 	"testing"
 
 	"github.com/Masterminds/semver"
-	"github.com/bwplotka/bingo/pkg/bingo"
-	"github.com/bwplotka/bingo/pkg/runner"
-	"github.com/bwplotka/bingo/pkg/version"
+	"github.com/rudo-thomas/bingo/pkg/bingo"
+	"github.com/rudo-thomas/bingo/pkg/runner"
+	"github.com/rudo-thomas/bingo/pkg/version"
 	"github.com/efficientgo/core/testutil"
 )
 

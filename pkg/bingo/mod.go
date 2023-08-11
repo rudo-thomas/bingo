@@ -14,11 +14,11 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/bwplotka/bingo/pkg/cpy"
+	"github.com/rudo-thomas/bingo/pkg/cpy"
 
-	"github.com/bwplotka/bingo/pkg/envars"
-	"github.com/bwplotka/bingo/pkg/mod"
-	"github.com/bwplotka/bingo/pkg/runner"
+	"github.com/rudo-thomas/bingo/pkg/envars"
+	"github.com/rudo-thomas/bingo/pkg/mod"
+	"github.com/rudo-thomas/bingo/pkg/runner"
 	"github.com/efficientgo/core/errcapture"
 	"github.com/efficientgo/core/errors"
 	"golang.org/x/mod/module"

@@ -16,8 +16,8 @@ import (
 	"strings"
 
 	"github.com/Masterminds/semver"
-	"github.com/bwplotka/bingo/pkg/envars"
-	"github.com/bwplotka/bingo/pkg/version"
+	"github.com/rudo-thomas/bingo/pkg/envars"
+	"github.com/rudo-thomas/bingo/pkg/version"
 	"github.com/efficientgo/core/errors"
 )
 
